@@ -1,0 +1,37 @@
+﻿Physical Properties of Water,,,,,,
+,,,,,,
+"Temperature 
+T 
+(degC)","Specific Weight
+y
+kN/m3","Density (1)
+rho
+kg/m3","Dynamic Viscosity(2)
+mu
+x 10^-3 kg/m.s","Kinematic Viscosity
+nu
+x 10^-6 m^2/s","Vapor Pressure
+Pv
+kN/m2",
+0,9.805,999.8,1.781,1.785,0.61,
+5,9.807,1000,1.518,1.519,0.87,
+10,9.804,999.7,1.307,1.306,1.23,
+15,9.798,999.1,1.139,1.139,1.7,
+20,9.789,998.2,1.002,1.003,2.34,
+25,9.777,997,0.89,0.893,3.17,
+30,9.764,995.7,0.798,0.8,4.24,
+40,9.73,992.2,0.653,0.658,7.38,
+50,9.689,988,0.547,0.553,12.33,
+60,9.642,983.2,0.466,0.474,19.92,
+70,9.589,977.8,0.404,0.413,31.16,
+80,9.53,971.8,0.354,0.364,47.34,
+90,9.466,965.3,0.315,0.326,70.1,
+100,9.399,958.4,0.282,0.294,101.33,
+,,,,,,
+,,,,,,
+(1) At atmospheric pressure,,,,,,
+(2) Dynamic viscosity can also be expressed in units of N . s/m2,,,,,,
+Ref: Based on J.K Venard et al. (1975) Elementary Fluid Mechanics and Crittenden et al. (2012) Water Treatment,,,,,,
+,,,,,,
+,,,,,,
+https://github.com/IMEConsultants/physical-properties-of-water,,,,,,
